@@ -1,0 +1,52 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 15px;
+    
+}
+.main-img{
+height: 100px;
+width: 100px;
+margin-right: 20px;
+}
+
+.main-img img{
+ height: 100%;
+ width: 100%;
+ object-fit: cover;   
+}
+
+.main-text {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px;
+padding: 10px;
+}
+
+.main-text h2{
+font-size: 30px;
+margin: 0px 10px;
+
+}
+
+.main-text p{
+    font-size: 20px;
+    margin:5px 10px;
+}
