@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main {
     display: flex;
     flex-direction: column;
@@ -150,4 +151,17 @@ list-style: none;
 
 .link-cont h5{
     margin-top:0 ;
+=======
+#video{
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 30px auto;
+}
+
+#video img{
+    width: 600px;
+    height: 400px;
+>>>>>>> 5b73ed83b1453832803e79c97ba446f26b1304d8
 }
